@@ -1,0 +1,87 @@
+# Private Information - Never Commit
+*.key
+*.pem
+*.p12
+*.pfx
+.ssh/
+.gnupg/
+.aws/
+.azure/
+.config/gcloud/
+.docker/config.json
+.netrc
+.npmrc
+.pypirc
+.gitconfig
+.env
+.env.*
+*.env
+secrets/
+credentials/
+tokens/
+.password
+.passwd
+.vault
+
+# User-specific directories
+.claude/
+.cache/
+.local/
+.config/
+.vscode/settings.json
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+.npm/_logs/
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Node modules and dependencies
+node_modules/
+.pnpm-store/
+.yarn/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+.venv/
+
+# Build artifacts
+build/
+dist/
+out/
+target/
+bin/
+obj/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.bak
+*.backup
+*~universal-environment-optimization-system/
