@@ -83,5 +83,7 @@ echo "   1. Configure your git identity: git config --global user.name 'Your Nam
 echo "   2. Configure your git email: git config --global user.email 'your@email.com'"
 echo "   3. Add your SSH public key to remote services:"
 echo "      cat ~/.ssh/id_ed25519.pub"
+echo "   4. Install Tailscale for secure remote access:"
+echo "      ./setup-tailscale.sh"
 echo ""
 echo "🎉 Happy coding!"
